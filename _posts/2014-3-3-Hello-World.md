@@ -1,9 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my webpage guys!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I want talk to you about my favorite game - CS:GO
+This game doesn't consist a story, but the story of the game is very amazing. 
+CS is based on legendary game Half-Life, that was made by Valve company. CS is the mode for Half-Life.
+In 1998 Valve corporation released Half-Life and after year one japanese man made a mode - shooter. 
+Counter-Strike got popularity very fast
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
