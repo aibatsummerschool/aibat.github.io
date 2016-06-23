@@ -14,8 +14,10 @@ POST ZONE POST ZONE POST ZONE POST ZONE POST ZONE POST ZONE POST ZONE
 1)Hello guys! It's my first post! Don't be so angry or harmful)))I am not PRO in things like that  :/
 Today I will tell you about 5 main professions that make games.
 
-FIRST!
 ENGINEER!
+
+
+
 ![_config.yml](http://media.tumblr.com/6dfbe0c4ceedc076ba1ed087bba8c0cc/tumblr_inline_mn780aGGm81qz4rgp.gif)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
