@@ -16,7 +16,7 @@ Today I will tell you about 5 main professions that make games.
 
 FIRST!
 ENGINEER!
-http://media.tumblr.com/6dfbe0c4ceedc076ba1ed087bba8c0cc/tumblr_inline_mn780aGGm81qz4rgp.gif
+![_config.yml](http://media.tumblr.com/6dfbe0c4ceedc076ba1ed087bba8c0cc/tumblr_inline_mn780aGGm81qz4rgp.gif)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
