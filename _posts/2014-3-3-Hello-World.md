@@ -12,13 +12,18 @@ In 1998 Valve corporation released Half-Life and after year one japanese man mad
 POST ZONE POST ZONE POST ZONE POST ZONE POST ZONE POST ZONE POST ZONE
 
 1)Hello guys! It's my first post! Don't be so angry or harmful)))I am not PRO in things like that  :/
-Today I will tell you about 5 main professions that make games.
+Today I will tell you about 5 main professions that make the games.
 
 ENGINEER!
 
 
 
 ![_config.yml](http://media.tumblr.com/6dfbe0c4ceedc076ba1ed087bba8c0cc/tumblr_inline_mn780aGGm81qz4rgp.gif)
+
+
+
+Engineer is one of the most demanded profession in the GAME MAKING industry. In our world is only the numbers of very good engineers who makes only the best games. They are the HANDS of the projects!! 
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
