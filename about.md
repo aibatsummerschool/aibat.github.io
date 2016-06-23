@@ -13,6 +13,4 @@ I am the oldest child in our family and i care about them all my life. I really 
 
 ### Contact me
 
-instagram: yelemess_
-vk.com: vk.com/aibatchampion
-gmail.com: aibateducatordeseish@gmail.com
+instagram: yelemess_   vk.com: vk.com/aibatchampion   gmail.com: aibateducatordeseish@gmail.com
