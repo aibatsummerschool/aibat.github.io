@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+MY WEBPAGE IS ABOUT HOW I STUDY IN SUMMERSCHOOL FOR 11 DAYS!
 
 ### More Information
 
