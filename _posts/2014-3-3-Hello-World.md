@@ -25,6 +25,23 @@ ENGINEER!
 Engineer is one of the most demanded profession in the GAME MAKING industry. In our world is only the numbers of very good engineers who makes only the best games. They are the HANDS of the projects!! 
 
 
+MY MONSTER!!
+
+Today i make my monster!(ARGH). It looks like a snowman but he is green, because he is toxic, maybe,i don't really know.
+But i am keep trying to make something incredible! If u want to see it use this link: http://aibatsummerschool.github.io/monster
+
+
+
+
+TWINERY!!
+THE BEST SITE OF MAKING STORIES!!I RECOMMEND!
+
+I make this story with Aruzhan and this story was about 2 japanese octocats, which
+
+
+
+
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
