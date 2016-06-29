@@ -28,7 +28,7 @@ Engineer is one of the most demanded profession in the GAME MAKING industry. In 
 MY MONSTER!!
 
 Today i make my monster!(ARGH). It looks like a snowman but he is green, because he is toxic, maybe,i don't really know.
-But i am keep trying to make something incredible! If u want to see it use this link: http://aibatsummerschool.github.io/monster
+But i am keep trying to make something incredible! If u want to see it use this [link](http://aibatsummerschool.github.io/monster)
 
 
 
