@@ -1,5 +1,5 @@
 ---
-layout: Thank you very much, Ayman <3
+layout: guest
 title:
 ---
-![_config.yml](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAC5AAAAJDJkY2I3OTJiLTljMDEtNGQ3Mi1hMTQzLTZlOTU0ZjEwMjY0NQ.jpg)
+![_config.yml](https://avatars3.githubusercontent.com/u/875834?v=3&s=460)
