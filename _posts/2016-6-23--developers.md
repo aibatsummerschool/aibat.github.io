@@ -3,7 +3,7 @@ layout: post
 title: Making game - teamwork 
 ---
 
-1)Hello guys! It's my first post! Don't be so angry or harmful)))I am not PRO in things like that  :/
+Hello guys! It's my first post! Don't be so angry or harmful)))I am not PRO in things like that  :/
 Today I will tell you about some professions that make the games, and there i will tell about professions that i like mostly.
 
 ENGINEER!
